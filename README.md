@@ -2,12 +2,12 @@
     Project
 Unit Testing an Application
 
->> OVERVIEW
+> OVERVIEW
 In this individual project you have the opportunity to demonstrate your ability to create a test
 plan, design a suite of unit tests, debug and refactor an application, create Python
 documentation, use git and report on the findings.
 
->>Learning Outcomes
+>Learning Outcomes
 This assessment contributes to the assessment of the following course learning outcomes:
  LO1: Recommend and apply a range of software quality assurance techniques to assess
 correctness of systems
