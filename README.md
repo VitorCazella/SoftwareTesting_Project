@@ -1,6 +1,5 @@
-# SoftwareTesting_Project
-    Project
-Unit Testing an Application
+# SoftwareTesting Project
+    Unit Testing an Application
 
 # OVERVIEW
 >In this individual project you have the opportunity to demonstrate your ability to create a test
