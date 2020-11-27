@@ -7,7 +7,7 @@ Unit Testing an Application
 plan, design a suite of unit tests, debug and refactor an application, create Python
 documentation, use git and report on the findings.
 
-#Learning Outcomes
+# Learning Outcomes
 >This assessment contributes to the assessment of the following course learning outcomes:
  LO1: Recommend and apply a range of software quality assurance techniques to assess
 correctness of systems
