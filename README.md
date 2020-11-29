@@ -11,12 +11,16 @@ documentation, use git and report on the findings.
 
  LO1: Recommend and apply a range of software quality assurance techniques to assess
 correctness of systems
+
  LO2: Plan, design, execute and manage testing activities using manual and automated
 techniques to assess the software quality.
+
  LO4: Apply programme maintenance techniques, including bug fixing and testing,
 optimisation and refactoring to ensure software efficiency and improve the software
 performance.
+
  LO5: Organise source code by using source and version control tools for collaboration and
 manage changes to course code over time.
+
  LO6: Produce and revise accurate and clear technical and user documentation to assist users
 and developers to use the software product.
