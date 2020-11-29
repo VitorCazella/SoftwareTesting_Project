@@ -8,6 +8,7 @@ documentation, use git and report on the findings.
 
 # Learning Outcomes
 >This assessment contributes to the assessment of the following course learning outcomes:
+
  LO1: Recommend and apply a range of software quality assurance techniques to assess
 correctness of systems
  LO2: Plan, design, execute and manage testing activities using manual and automated
