@@ -1,0 +1,17 @@
+Test Deliverables
+
+Test deliverables are provided before testing phase.
+•	Test plans document.
+•	Test cases documents
+•	Test Design specifications.
+Test deliverables are provided during the testing
+•	Test Scripts
+•	Simulators.
+•	Test Data
+•	Test Traceability Matrix
+•	Error logs and execution logs.
+Test deliverables are provided after the testing cycles is over.
+•	Test Results/reports
+•	Defect Report
+•	Installation/ Test procedures guidelines
+•	Release notes
