@@ -15,3 +15,8 @@ Test deliverables are provided after the testing cycles is over.
 •	Defect Report
 •	Installation/ Test procedures guidelines
 •	Release notes
+
+
+https://www.guru99.com/test-case.html
+https://learning.oreilly.com/library/view/the-art-of/9781118133156/chapter04.html#c04anchor-3
+https://docs.python.org/3/library/unittest.html
