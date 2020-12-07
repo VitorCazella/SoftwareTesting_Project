@@ -6,7 +6,6 @@ class BowlingGame(object):
     def throw(self,pins):
         self.throws.append(pins)
 
-
     def calculate_score(self):
         ball = 0
         for frames in range(10):

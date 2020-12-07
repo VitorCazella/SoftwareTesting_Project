@@ -29,8 +29,6 @@ class BowlingGameTests(unittest.TestCase):
         game.calculate_score()
         self.assertEqual(game.score, 20)
 
-
-
     def test_different_throws(self):
         #print("test_different_throws")
         game = BowlingGame()
@@ -43,7 +41,6 @@ class BowlingGameTests(unittest.TestCase):
             game.throw(0)
         game.calculate_score()
         self.assertEqual(game.score, 15)
-
 
     def test_for_spare(self):
         #print("test_for_spare")
